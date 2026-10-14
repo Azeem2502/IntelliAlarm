@@ -1,0 +1,7 @@
+listeners:
+  default:
+    type: tcp
+    bind: 0.0.0.0:1883
+    max_connections: 0
+timeout_disconnect_delay: 60
+sys_interval: 20

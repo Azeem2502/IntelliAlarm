@@ -1,0 +1,27 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Node & JavaScript
+node_modules/
+.expo/
+.next/
+dist/
+web-build/
+
+# Android Build artifacts
+app/android/.gradle/
+app/android/build/
+app/android/app/build/
+*.hprof
+
+# Large binaries & secrets
+backend/cloudflared.exe
+ngrok.yml
+*.log
+.DS_Store
+Thumbs.db

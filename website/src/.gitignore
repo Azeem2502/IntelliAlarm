@@ -1,0 +1,9 @@
+@"
+backend/venv/
+.venv/
+website/node_modules/
+node_modules/
+__pycache__/
+*.pyc
+.env
+"@ | Out-File -FilePath .gitignore -Encoding utf8git status
