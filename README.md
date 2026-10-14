@@ -218,18 +218,9 @@ weighted avg       0.99      0.99      0.99      2000
 
 ## 🎥 9. 15–20 Minute Demo Video (Unlisted YouTube Link)
 
-[![IntelliAlarm Hackathon Video Demo](https://img.shields.io/badge/YouTube-Watch%2018--Minute%20Demo%20Video-red?style=for-the-badge&logo=youtube)](https://youtu.be/YOUR_UNLISTED_YOUTUBE_VIDEO_LINK_HERE)
+[![IntelliAlarm Hackathon Video Demo](https://drive.google.com/file/d/1M1VUsUkoPwGZ2_2zd3JIyHQ_0jN4htr5/view?usp=drive_link)
 
-> 🔗 **Unlisted YouTube Video URL**: **`https://youtu.be/YOUR_UNLISTED_YOUTUBE_VIDEO_LINK_HERE`**  
-> *(Replace the link above with your actual Unlisted YouTube video URL before final submission).*
-
-### Demo Video Agenda & Timestamps:
-* **00:00 – 02:30**: Introduction, Healthcare Problem Statement, and Alarm Fatigue Challenges
-* **02:30 – 05:45**: System Architecture, Hardware Prototype (ESP32-S3), and MQTT Broker Setup
-* **05:45 – 09:30**: Mathematical Risk Formula & Machine Learning Model Training (Scikit-Learn)
-* **09:30 – 14:00**: Live End-to-End Demonstration: Telemetry Ingestion, AI Triage, and Edge Buzzer Trigger
-* **14:00 – 17:30**: Mobile App Walkthrough (React Native APK): Live WebSockets, Dynamic Host Resolver & Technician Audit
-* **17:30 – 19:30**: Healthcare Impact, Scalability, and Future Roadmap
+> 🔗 **Unlisted YouTube Video URL**: **`https://drive.google.com/file/d/1M1VUsUkoPwGZ2_2zd3JIyHQ_0jN4htr5/view?usp=drive_link`**  
 
 ---
 
