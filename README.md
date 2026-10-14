@@ -236,9 +236,9 @@ weighted avg       0.99      0.99      0.99      2000
 All project presentation decks and high-resolution architecture diagrams are publicly accessible:
 
 1. **Project Presentation Slide Deck (PPT / PDF)**:
-   * 🌐 **Public Presentation Link (Google Slides / PPT)**:  
-     👉 **[Click Here to Open IntelliAlarm Presentation Deck](https://docs.google.com/presentation/d/12rC_j1LURaVhwmZLUazaSYH40iJ-Qmwp/edit?usp=sharing&ouid=113002523712752284952&rtpof=true&sd=true)**  
-     *(Direct URL: `https://docs.google.com/presentation/d/12rC_j1LURaVhwmZLUazaSYH40iJ-Qmwp/edit?usp=sharing&ouid=113002523712752284952&rtpof=true&sd=true`)*
+   * 🌐 **Public Presentation Link (Google Drive / PPT)**:  
+     👉 **[Click Here to Open IntelliAlarm Presentation Deck](https://drive.google.com/file/d/1Fj_wRnzF6YVaewgPF47qo5zUa0Wdg-uG/view?usp=sharing)**  
+     *(Direct URL: `https://drive.google.com/file/d/1Fj_wRnzF6YVaewgPF47qo5zUa0Wdg-uG/view?usp=sharing`)*
    * 📄 **Local Repository Summary**: [`docs/README.md`](docs/README.md)
 2. **System Architecture Diagram**:
    * 📄 **Mermaid Diagram**: Rendered directly in [Section 6](#-6-system-architecture-diagram) above.

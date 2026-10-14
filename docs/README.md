@@ -3,7 +3,7 @@
 This directory contains the presentation deck and architecture assets for the **IntelliAlarm** project submission.
 
 ## 📁 Presentation & Architecture Links:
-* 🌐 **Public Presentation Slide Deck**: [Open in Google Slides / PPT](https://docs.google.com/presentation/d/12rC_j1LURaVhwmZLUazaSYH40iJ-Qmwp/edit?usp=sharing&ouid=113002523712752284952&rtpof=true&sd=true)
+* 🌐 **Public Presentation Slide Deck**: [Open in Google Drive / PPT](https://drive.google.com/file/d/1Fj_wRnzF6YVaewgPF47qo5zUa0Wdg-uG/view?usp=sharing)
 * 🎥 **Public Project Demo Video**: [Watch on Google Drive](https://drive.google.com/file/d/1M1VUsUkoPwGZ2_2zd3JIyHQ_0jN4htr5/view?usp=drive_link)
 * 🏗️ **System Architecture**: Available in main [README.md](../README.md#-6-system-architecture-diagram)
 
