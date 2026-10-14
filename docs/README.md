@@ -2,9 +2,10 @@
 
 This directory contains the presentation deck and architecture assets for the **IntelliAlarm** project submission.
 
-## 📁 Files in this Directory:
-1. `IntelliAlarm_Presentation.pdf` / `IntelliAlarm_Presentation.pptx`: The complete 10–12 slide deck detailing problem statement, clinical impact, architecture, ML model, and live demo outcomes.
-2. `IntelliAlarm_Architecture.pdf` / `IntelliAlarm_Architecture.png`: High-resolution system architecture and data-flow diagrams.
+## 📁 Presentation & Architecture Links:
+* 🌐 **Public Presentation Slide Deck**: [Open in Google Slides / PPT](https://docs.google.com/presentation/d/12rC_j1LURaVhwmZLUazaSYH40iJ-Qmwp/edit?usp=sharing&ouid=113002523712752284952&rtpof=true&sd=true)
+* 🎥 **Public Project Demo Video**: [Watch on Google Drive](https://drive.google.com/file/d/1M1VUsUkoPwGZ2_2zd3JIyHQ_0jN4htr5/view?usp=drive_link)
+* 🏗️ **System Architecture**: Available in main [README.md](../README.md#-6-system-architecture-diagram)
 
 ---
 

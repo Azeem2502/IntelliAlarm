@@ -30,23 +30,20 @@
 
 ## 👥 1. Team Details
 
-| Name | Role | GitHub Profile | LinkedIn Profile | Email |
-| :--- | :--- | :--- | :--- | :--- |
-| **Sanjana B** | **Team Lead & IoT / Embedded Systems** | [@sanjanab2006](https://github.com/sanjanab2006) | [LinkedIn Profile](https://linkedin.com/in/) | sanjana@example.com |
-| **Team Member 2** | **ML Engineer & Data Pipeline** | [@team-member-2](https://github.com/) | [LinkedIn Profile](https://linkedin.com/in/) | member2@example.com |
-| **Team Member 3** | **Fullstack Backend & Cloud Dev** | [@team-member-3](https://github.com/) | [LinkedIn Profile](https://linkedin.com/in/) | member3@example.com |
-| **Team Member 4** | **Mobile App Developer (React Native)**| [@team-member-4](https://github.com/) | [LinkedIn Profile](https://linkedin.com/in/) | member4@example.com |
-
-*(Note: Replace placeholder links and emails above with your team's exact details before final submission).*
+| Name | Role | Email |
+| :--- | :--- | :--- |
+| **Sanjana B** | **Team Leader** • IoT & Embedded Systems | `kit28.24bee050@gmail.com` |
+| **Mohamed Azeem A** | **ML Engineer & Backend Lead** | `kit28.24bcs091@gmail.com` |
+| **Subash M** | **Electrical & Sensor Telemetry Lead** | `kit28.24bee055@gmail.com` |
+| **Logesh S** | **Mobile App & Frontend Developer** | `kit28.24bcs@gmail.com` |
 
 ---
 
 ## 🏫 2. College & Incubator Information
 
-* **Institution / College Name**: *[Insert Your College / University Name, e.g., National Institute of Technology / Anna University / VTU]*
-* **Department**: Department of Computer Science & Engineering / Electronics and Communication Engineering / Biomedical Engineering
-* **Incubator / Innovation Cell**: *[Insert Your Institution Innovation Council (IIC) / Startup Incubator / Technology Business Incubator (TBI) Name]*
-* **City & State**: *[City, State, Country]*
+* **Institution / College Name**: **KIT - KALAIGNARKARUNANIDHI INSTITUTE OF TECHNOLOGY**
+* **Departments**: Electrical & Electronics Engineering (EEE) & Computer Science Engineering (CSE)
+* **Location**: Coimbatore, Tamil Nadu, India
 
 ---
 
@@ -216,24 +213,36 @@ weighted avg       0.99      0.99      0.99      2000
 
 ---
 
-## 🎥 9. Minute Demo Video
+## 🎥 9. 15–20 Minute Demo Video
 
-[![IntelliAlarm Hackathon Video Demo]( https://drive.google.com/file/d/1M1VUsUkoPwGZ2_2zd3JIyHQ_0jN4htr5/view?usp=drive_link )
+[![IntelliAlarm Video Demo](https://img.shields.io/badge/Google%20Drive-Watch%20Project%20Demo%20Video-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1M1VUsUkoPwGZ2_2zd3JIyHQ_0jN4htr5/view?usp=drive_link)
 
-> 🔗 **Unlisted Demo Video URL**: **`https://drive.google.com/file/d/1M1VUsUkoPwGZ2_2zd3JIyHQ_0jN4htr5/view?usp=drive_link`**  
+> 🔗 **Public Demo Video URL**:  
+> **[Click Here to Watch the Demo Video on Google Drive](https://drive.google.com/file/d/1M1VUsUkoPwGZ2_2zd3JIyHQ_0jN4htr5/view?usp=drive_link)**  
+> *(Direct link: `https://drive.google.com/file/d/1M1VUsUkoPwGZ2_2zd3JIyHQ_0jN4htr5/view?usp=drive_link`)*
+
+### Demo Video Agenda & Timestamps:
+* **00:00 – 02:30**: Introduction, Healthcare Problem Statement, and Alarm Fatigue Challenges
+* **02:30 – 05:45**: System Architecture, Hardware Prototype (ESP32-S3), and MQTT Broker Setup
+* **05:45 – 09:30**: Mathematical Risk Formula & Machine Learning Model Training (Scikit-Learn)
+* **09:30 – 14:00**: Live End-to-End Demonstration: Telemetry Ingestion, AI Triage, and Edge Buzzer Trigger
+* **14:00 – 17:30**: Mobile App Walkthrough (React Native APK): Live WebSockets, Dynamic Host Resolver & Technician Audit
+* **17:30 – 19:30**: Healthcare Impact, Scalability, and Future Roadmap
 
 ---
 
 ## 📊 10. Presentation & Architecture Documents (PDF / PPT)
 
-All project presentation decks and high-resolution architecture diagrams are publicly accessible in the repository and via cloud links:
+All project presentation decks and high-resolution architecture diagrams are publicly accessible:
 
-1. **Project Presentation Slide Deck (PDF / PPT)**:
-   * 📄 **Repository File**: [`docs/IntelliAlarm_Presentation.pdf`](docs/IntelliAlarm_Presentation.pdf)
-   * 🌐 **Public Cloud Link (No login required)**: [Google Drive / Slides Presentation Link](https://drive.google.com/file/d/YOUR_PRESENTATION_ID/view?usp=sharing)
-2. **System Architecture Diagram (PDF / PPT / Vector)**:
-   * 📄 **Repository File**: [`docs/IntelliAlarm_Architecture.pdf`](docs/IntelliAlarm_Architecture.pdf)
-   * 🌐 **Public Cloud Link**: [Google Drive Architecture Diagram](https://drive.google.com/file/d/YOUR_ARCHITECTURE_ID/view?usp=sharing)
+1. **Project Presentation Slide Deck (PPT / PDF)**:
+   * 🌐 **Public Presentation Link (Google Slides / PPT)**:  
+     👉 **[Click Here to Open IntelliAlarm Presentation Deck](https://docs.google.com/presentation/d/12rC_j1LURaVhwmZLUazaSYH40iJ-Qmwp/edit?usp=sharing&ouid=113002523712752284952&rtpof=true&sd=true)**  
+     *(Direct URL: `https://docs.google.com/presentation/d/12rC_j1LURaVhwmZLUazaSYH40iJ-Qmwp/edit?usp=sharing&ouid=113002523712752284952&rtpof=true&sd=true`)*
+   * 📄 **Local Repository Summary**: [`docs/README.md`](docs/README.md)
+2. **System Architecture Diagram**:
+   * 📄 **Mermaid Diagram**: Rendered directly in [Section 6](#-6-system-architecture-diagram) above.
+   * 📄 **Architecture Guide**: [`docs/README.md`](docs/README.md)
 
 ---
 
@@ -242,8 +251,9 @@ All project presentation decks and high-resolution architecture diagrams are pub
 > **Declaration of Public Access**:  
 > In compliance with the Hackathon submission guidelines:
 > * This GitHub repository is **100% public** and accessible to all evaluators without requiring invitations or credentials.
-> * The **Demo Video** is hosted as an **Unlisted YouTube Video** accessible to anyone with the link.
-> * All presentation files, architecture diagrams, and release APK downloads (`IntelliAlarm_v1.1.0.apk`) are publicly hosted with **zero access barriers or permission restrictions**.
+> * The **Demo Video** is publicly viewable without requiring sign-in or special access permissions.
+> * The **Presentation Slide Deck** is publicly viewable and downloadable via Google Slides.
+> * All release APK downloads (`IntelliAlarm_v1.1.0.apk`) are publicly hosted in the repository with **zero access barriers**.
 
 ---
 
