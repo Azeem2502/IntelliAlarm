@@ -7,6 +7,12 @@
 [![ML Accuracy](https://img.shields.io/badge/ML%20Accuracy-99.15%25-orange.svg)](backend/train_model.py)
 [![MQTT](https://img.shields.io/badge/Protocol-MQTT%201883-purple.svg)](https://mqtt.org/)
 
+### 📱 Android Application Download
+[![Download APK](https://img.shields.io/badge/Download-IntelliAlarm__v1.1.0.apk-brightgreen?style=for-the-badge&logo=android)](https://github.com/Azeem2502/IntelliAlarm/raw/main/IntelliAlarm_v1.1.0.apk)
+
+> 📲 **Direct Download Link**: **[Click here to download IntelliAlarm_v1.1.0.apk](https://github.com/Azeem2502/IntelliAlarm/raw/main/IntelliAlarm_v1.1.0.apk)**  
+> *(No GitHub account or login required — direct download link: `https://github.com/Azeem2502/IntelliAlarm/raw/main/IntelliAlarm_v1.1.0.apk`)*
+
 > **A real-time, context-aware Digital Twin for hospital electrical resilience. IntelliAlarm combines Edge IoT sensory telemetry (ESP32-S3), Machine Learning risk prioritization, and instant mobile dispatch to eradicate clinical alarm fatigue and prevent catastrophic power failures in Life-Safety hospital zones.**
 
 ---
@@ -302,7 +308,7 @@ python -m uvicorn main:app --host 0.0.0.0 --port 8000
 3. Flash the board. Telemetry will immediately begin streaming into the backend!
 
 ### 4. Install & Run the Android Mobile App
-* Download the compiled APK directly: [`IntelliAlarm_v1.1.0.apk`](IntelliAlarm_v1.1.0.apk)
+* 📲 **Direct Download APK**: [Click to Download IntelliAlarm_v1.1.0.apk (Direct)](https://github.com/Azeem2502/IntelliAlarm/raw/main/IntelliAlarm_v1.1.0.apk)
 * Or run in development mode:
 ```bash
 cd app
