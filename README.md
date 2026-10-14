@@ -220,7 +220,7 @@ weighted avg       0.99      0.99      0.99      2000
 
 [![IntelliAlarm Hackathon Video Demo](https://drive.google.com/file/d/1M1VUsUkoPwGZ2_2zd3JIyHQ_0jN4htr5/view?usp=drive_link)
 
-> 🔗 **Unlisted YouTube Video URL**: **`https://drive.google.com/file/d/1M1VUsUkoPwGZ2_2zd3JIyHQ_0jN4htr5/view?usp=drive_link`**  
+> 🔗 **Unlisted Demo Video URL**: **`https://drive.google.com/file/d/1M1VUsUkoPwGZ2_2zd3JIyHQ_0jN4htr5/view?usp=drive_link`**  
 
 ---
 
